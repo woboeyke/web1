@@ -1,0 +1,9 @@
+body{
+    background-color: cornsilk;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+img{
+    display: block;
+    width: 250px;
+    margin: 10px;
+}
